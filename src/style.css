@@ -1,0 +1,40 @@
+body{
+
+ background-image: url(images/makeup.webp);
+
+
+
+
+}
+h1
+{
+background: rgb(211, 22, 154)
+
+}
+
+*{
+    font-family:'Times New Roman', Times, serif
+    font-weight: 500;
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.submit-btn
+{
+    color: black;
+
+}
+
+.image{
+    width: 240px;
+    height: 150px;
+    border-radius: 50px;
+}
+
+
+
+
+
