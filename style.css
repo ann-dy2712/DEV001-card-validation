@@ -1,0 +1,60 @@
+body
+{
+
+ background: linear-gradient(rgba(5, 7, 12, 0.25), rgba(5, 7, 12, 0.25)),
+ url(images/cosmeticos\ fondo.webp);
+ 
+}
+
+
+h1
+{
+background: rgb(224, 22, 164)
+}
+
+.container
+{
+    font-family:serif;
+    font-weight: bold;
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+.boton
+{
+    width: 15%;
+    background: linear-gradient(45deg, blueviolet, deeppink);
+    margin-top: 10px;
+    padding: 2px;
+    font-size: 15px;
+    color: #fff;
+    cursor: pointer;
+}
+
+
+.image
+{
+    width: 280px;
+    height: 170px;
+    border-radius: 50px;
+    display: block;
+    margin: auto;
+    position: relative;
+}
+
+.logomarca 
+{
+    width: 2px;
+    height: 2px;
+    position:absolute;
+    left: -2%;
+    top: 20%;
+    max-width: 20px;
+    max-height: 20px;
+    display: inline;
+}
